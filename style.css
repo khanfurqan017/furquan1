@@ -5,3 +5,8 @@ h1{
 h2{
     background-color: blue;
 }
+button{
+    border-radius: 6px;
+    background-color: black;
+    color: #fff;
+}
